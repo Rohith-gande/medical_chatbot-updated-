@@ -4,6 +4,9 @@
 Thumbs.db
 desktop.ini
 
+firebase_key.json
+src/firebase_key.json
+
 # Windows thumbnail cache
 ehthumbs.db
 
