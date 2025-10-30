@@ -11,3 +11,4 @@ pypdf==3.17.4
 python-dotenv==1.0.1
 langchain-google-genai==0.0.9
 streamlit
+firebase-admin==7.1.0
